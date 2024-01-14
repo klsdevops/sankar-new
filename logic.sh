@@ -1,2 +1,2 @@
-# this is a production script
+# this is a development script
 a + b = c
